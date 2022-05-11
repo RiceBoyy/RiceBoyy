@@ -6,10 +6,6 @@ I'm RiceBoyy from Denmark, and I do front-end web deveopment. I Really enjoy lea
 
 Skills: VUE JS / Angular / JS / HTML / CSS / ASP.NET / C# 
 
-- 🔭 I’m currently working on My own website 
-- 🌱 I’m currently learning Vue.js 
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RiceBoyy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/owen-joshua-de-guzman//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Owen_De_Guzman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](owen.js)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RiceBoyy)](https://github.com/ryo-ma/github-profile-trophy)
