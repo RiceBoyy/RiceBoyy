@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Owen
 #### I am a Front-End Developer
-![I am a Front-End Developer](https://pbs.twimg.com/profile_banners/4903180287/1652295948/600x200)
+![I am a Front-End Developer](https://github.com/RiceBoyy/RiceBoyy/blob/main/Front-end%20developer.png)
 
 I'm RiceBoyy from Denmark, and I do front-end web deveopment. I Really enjoy learning languages and frameworks like Vue and Angular, as well as work in C# and ASP.NET. I also enjoy wireframing, ui, ux, and design in general.
 
