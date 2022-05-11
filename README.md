@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @RiceBoyy - Owen
-- 👀 I’m interested in programming mostly front-end.
-- 🌱 I’m currently learning different programming language in school, i'm mostly leraning about C#, angular, MySql and a couple other things.
-- 📫 How to reach my goal with this project is mostly by searching issue on the internet or ask my colleagues at work. 
+### Hi there👋 
 
-<!---
-RiceBoyy/RiceBoyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Owen from Australia, and I do front-end web deveopment. I Really enjoy learning languages and frameworks like Vue and Angular, as well as work in C# and ASP.NET.
+I also enjoy wireframing, ui, ux, and design in general.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiceBoyy)](https://github.com/anuraghazra/github-readme-stats)
